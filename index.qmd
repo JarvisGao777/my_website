@@ -1,0 +1,84 @@
+---
+title: "Jarvis Gao"
+title-block: false
+---
+
+::: {#home .hero-section}
+::: {.hero-overlay}
+# Jarvis Gao { .hero-title }
+[Columbia University · Quantitative Research · Personal Blog]{.hero-subtitle}
+
+[⌄](#about){.scroll-down}
+:::
+:::
+
+::: {#about .section .about-section}
+::: {.section-container}
+::: {.about-grid}
+
+::: {.about-text}
+## About Me
+
+I am currently a graduate student at [Columbia University]{.highlight}.
+
+Previously, I studied at [Shanghai University of Finance and Economics]{.highlight}, majoring in finance.
+
+Professionally, I have multiple internship experiences in hedge funds.
+
+Separately I am interested in Formula 1 and Basketball.
+:::
+
+::: {.about-image-wrap}
+![](images/profile.jpg){.about-image alt="Profile photo"}
+:::
+
+:::
+:::
+:::
+
+
+::: {#cv .section .cv-section}
+::: {.section-container}
+::: {.content-box}
+## Experience
+
+**Education and Awards**
+
+- M.S. Financial Engineering, [Columbia University]{.highlight}, 2026
+- B.A. Finance, [Shanghai University of Finance and Economics]{.highlight}, 2025
+
+**Professional Experiences**
+
+- [Barclays]{.highlight}, Market QA Intern, upcoming
+- [Columbia University]{.highlight}, Teaching Assistant, 2026
+- [Hongqiangtaihe Fund Management]{.highlight}, Quantitative Research Intern, 2025
+- [Zhurun Investment]{.highlight}, Quantitative Research Intern, 2024–2025
+- [Guotai Junan Securities]{.highlight}, Quantitative Research Intern, 2024
+:::
+:::
+:::
+
+
+::: {#blog .section .blog-section}
+::: {.section-container}
+::: {.content-box}
+## Blog
+
+A space for selected blogs.
+:::
+:::
+:::
+
+::: {#contact .section .contact-section}
+::: {.section-container}
+::: {.contact-box}
+## Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/jarvis-gao-22ba15348/){.linkedin-button target="_blank"}
+:::
+
+::: {.site-footer}
+© Jarvis Gao 2026
+:::
+:::
+:::
